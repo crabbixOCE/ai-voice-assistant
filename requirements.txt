@@ -1,0 +1,7 @@
+elevenlabs
+openai
+pyaudio
+ffmpeg
+wave
+audioop
+openai
